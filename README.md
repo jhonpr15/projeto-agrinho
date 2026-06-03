@@ -48,12 +48,12 @@ O sistema opera em um ciclo contínuo de leitura e tomada de decisão automátic
 
 ## Integrantes e Autores
 O projeto foi desenvolvido com dedicação e trabalho em equipe:
-*   **Nome do Aluno 1** - Jhonatan
-*   **Nome do Professor(a)** - Professor Vladimir
+*   **Nome do Aluno** - Jhonatan
+*   **Nome do Professor** - Professor Vladimir
 *   **Escola:** Maria José Balzanelo Aguilera
 *   **Cidade:** Londrina - PR
 
 ---
 
-## 📄 Licença
+## Licença
 Este projeto é aberto e está sob a licença MIT. Consulte o arquivo `LICENSE` no repositório para obter mais detalhes.
