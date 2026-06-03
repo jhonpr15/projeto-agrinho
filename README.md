@@ -1,24 +1,20 @@
 # 🌾 Projeto Agrinho - Irrigação Inteligente Automatizada
 
-![Status do Projeto](https://shields.io)
-![Ano](https://shields.io)
-![Categoria](https://shields.io)
-
-## 📝 Sobre o Projeto
+## Sobre o Projeto
 Este repositório armazena todo o código-fonte, esquemáticos de circuitos e documentação do protótipo **Irrigação Inteligente Automatizada**. O projeto foi integralmente desenvolvido para a participação no **Concurso Agrinho 2026**, promovido pelo [Sistema FAEP/SENAR-PR](https://www.sistemafaep.org.br/agrinho/) em parceria com a Secretaria de Estado da Educação ([Seed-PR](https://www.educacao.pr.gov.br/Noticia/Concurso-de-Redacao-Agrinho-2026-mobiliza-alunos-da-rede-estadual-partir-desta-semana)).
 
 Alinhado com o tema oficial deste ano — **"Agro forte, futuro sustentável: equilíbrio entre produção e meio ambiente"** —, o projeto propõe uma solução tecnológica viável para evitar o desperdício de água na agricultura familiar, otimizando o uso de recursos hídricos por meio da automação.
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 *   **Otimizar Recursos:** Monitorar a umidade do solo em tempo real para acionar a irrigação apenas quando necessário.
 *   **Sustentabilidade:** Evitar o desperdício de água e energia elétrica nas propriedades rurais.
 *   **Aprendizado Prático:** Aplicar conceitos fundamentais de lógica de programação, eletrônica digital e robótica aplicada ao campo.
 
 ---
 
-## 🚀 Tecnologias e Ferramentas Utilizadas
+## Tecnologias e Ferramentas Utilizadas
 O projeto combina componentes físicos (hardware) e instrução lógica (software):
 *   **Hardware / Componentes:** 
     *   Placa Microcontroladora (Compatível com Arduino)
@@ -32,7 +28,7 @@ O projeto combina componentes físicos (hardware) e instrução lógica (softwar
 
 ---
 
-## 🛠️ Como Funciona?
+## Como Funciona?
 O sistema opera em um ciclo contínuo de leitura e tomada de decisão automática:
 1.  **Leitura do Solo:** O sensor higrômetro mede o nível de umidade da terra constantemente.
 2.  **Análise de Dados:** O microcontrolador processa o valor recebido pelo sensor.
@@ -43,30 +39,19 @@ O sistema opera em um ciclo contínuo de leitura e tomada de decisão automátic
 
 ---
 
-## 📂 Estrutura do Repositório
+## Estrutura do Repositório
 *   `/src`: Contém o código-fonte `.ino` principal utilizado na placa.
 *   `/hardware`: Esquemáticos do circuito, diagramas de blocos e lista de componentes.
 *   `/docs`: Relatórios pedagógicos e arquivos complementares exigidos pelo concurso.
 
 ---
 
-## 📸 Demonstração
-> 💡 *Dica: Substitua os links falsos abaixo pelas imagens reais do seu protótipo em funcionamento ou simulação.*
-
-
-| Protótipo Físico | Circuito Simulado |
-| :-: | :-: |
-| ![Foto do Projeto Físico](https://placeholder.com) | ![Esquema do Circuito](https://placeholder.com) |
-
----
-
 ## 👥 Integrantes e Autores
 O projeto foi desenvolvido com dedicação e trabalho em equipe:
-*   **Nome do Aluno 1** - Desenvolvedor de Software - [GitHub](https://github.com/)
-*   **Nome do Aluno 2** - Montagem e Hardware
-*   **Nome do Professor(a)** - Orientador(a) do Projeto
-*   **Escola:** Nome da Instituição de Ensino
-*   **Cidade:** Município - PR
+*   **Nome do Aluno 1** - Jhonatan
+*   **Nome do Professor(a)** - Professor Vladimir
+*   **Escola:** Maria José Balzanelo Aguilera
+*   **Cidade:** Londrina - PR
 
 ---
 
