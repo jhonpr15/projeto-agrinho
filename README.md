@@ -46,7 +46,7 @@ O sistema opera em um ciclo contínuo de leitura e tomada de decisão automátic
 
 ---
 
-## 👥 Integrantes e Autores
+## Integrantes e Autores
 O projeto foi desenvolvido com dedicação e trabalho em equipe:
 *   **Nome do Aluno 1** - Jhonatan
 *   **Nome do Professor(a)** - Professor Vladimir
